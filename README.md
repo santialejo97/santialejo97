@@ -5,7 +5,7 @@
 
 <br>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ3cHV1YTZybTJiNnIyNXVxNm00eWk0czk0aGsxcXRpOG5sMjd5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width = 250px></picture>
 
 <br>
 
@@ -13,7 +13,7 @@
 - :technologist: I love to use software as a solution to any `Problem`.
 - :student: I’m currently learning `Software Engineering` at university.
 - :nerd_face: Always `learning new things` and looking for new development alternatives as ideas and web projects.
-- :thinking: I'm currently open to a new `job opportunity`, given my `linkedin profile` 
+- :thinking: I'm currently open to a new `job opportunity`, given my `linkedin profile` <a href="linkedin.com/in/santiago-alejandro-gaviria-murcia-097895203">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br>
 
 
