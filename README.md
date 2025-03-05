@@ -13,7 +13,8 @@
 - :technologist: I love to use software as a solution to any `Problem`.
 - :student: I’m currently learning `Software Engineering` at university.
 - :nerd_face: Always `learning new things` and looking for new development alternatives as ideas and web projects.
-- :thinking: I'm currently open to a new `job opportunity`, given my `linkedin profile` <a href="linkedin.com/in/santiago-alejandro-gaviria-murcia-097895203">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- :thinking: I'm currently open to a new `job opportunity`, given my `linkedin profile` <a href="linkedin.com/in/santiago-alejandro-gaviria-murcia-097895203"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <br>
 
 
